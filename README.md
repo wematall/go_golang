@@ -33,5 +33,6 @@
 11. task_3.7.1 get input and print
 ### 3.8 Вопросы к третьему модулю
 12. task_3.8.1 get 2 numbers and print sum
+13. task_3.8.2 get 3 numbers and print sum
 
 
