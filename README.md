@@ -6,3 +6,5 @@
 2. task_2.2.1 import fmt
 ### 2.3 Импорт
 3. task_2.3.1 print string
+### 2.3 Комментарии
+4. task_2.3.1 comments in code
