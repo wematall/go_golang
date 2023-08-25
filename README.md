@@ -40,4 +40,8 @@
 15. task_4.1.2 победа if result = 3
 ### 4.2 Оператор switch
 16. task_4.2.1 switch and number
+### 4.3 Циклы
+нет задач
+### 4.4 Вопросы к 4 модулю
+17. task_4.4.1 write for loop
 
