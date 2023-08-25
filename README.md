@@ -37,5 +37,7 @@
 ## Управляющие структуры
 ### 4.1 Условный оператор if/else
 14. task_4.1.1 простой if
-15 .task_4.1.2 победа if result = 3
+15. task_4.1.2 победа if result = 3
+### 4.2 Оператор switch
+16. task_4.2.1 switch and number
 
