@@ -69,3 +69,4 @@ no tasks
 31. task_5.6.3 func isEven(a) return true or false
 32. task_5.6.4 вернуть сумму квадратов от a до b
 33. task_5.6.5 вернуть число и строку
+34. task_5.6.6 Возраст на Марсе
