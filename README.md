@@ -53,4 +53,4 @@
 ## Функции
 ### 5.1 Введение в функции
 24. task_5.1.1 get input and print
-
+25. task_5.1.2 first function star()
