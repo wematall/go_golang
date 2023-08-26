@@ -65,4 +65,8 @@ no tasks
 no tasks
 ### 5.6 Вопросы и задачи к модулю 5
 29. task_5.6.1 func max(a, b)
-
+30. task_5.6.2 func calc(a) return 2 values
+31. task_5.6.3 func isEven(a) return true or false
+32. task_5.6.4 вернуть сумму квадратов от a до b
+33. task_5.6.5 вернуть число и строку
+34. task_5.6.6 Возраст на Марсе
