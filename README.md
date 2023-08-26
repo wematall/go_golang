@@ -68,3 +68,4 @@ no tasks
 30. task_5.6.2 func calc(a) return 2 values
 31. task_5.6.3 func isEven(a) return true or false
 32. task_5.6.4 вернуть сумму квадратов от a до b
+33. task_5.6.5 вернуть число и строку
