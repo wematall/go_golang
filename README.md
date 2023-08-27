@@ -91,3 +91,5 @@ no tasks
 no tasks
 ### 7.3 Диапазон (range)
 40. task_7.3.1 сумма элементов массива
+### Карты (maps)
+41. task_7.4.1 create map
