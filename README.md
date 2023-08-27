@@ -97,4 +97,5 @@ no tasks
 no tasks
 ### 7.6 Tasks к модулю 7
 42. task_7.6.1 написать функцию myPrint(a ...int)
+43. task_7.6.2 написать программу
 
